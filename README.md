@@ -1,2 +1,4 @@
 # hello-world
-jus learning
+jus learning (wrote this on github)
+
+jus learning again (wrote this on gitbash)
